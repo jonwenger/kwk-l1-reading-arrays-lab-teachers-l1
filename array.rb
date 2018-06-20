@@ -22,9 +22,9 @@ books = ["winnie the pooh's magical adventure", "to kill a mocking bird", "educa
 age = [25]
 
 books.push("Geometry Textbook")
-puts books
 
-book.push("")
+books.push("COllege Algebra")
+puts books
 
 
 
