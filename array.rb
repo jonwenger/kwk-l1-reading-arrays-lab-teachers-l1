@@ -24,6 +24,8 @@ age = [25]
 books.push("Geometry Textbook")
 puts books
 
+book.push("")
+
 
 
 
