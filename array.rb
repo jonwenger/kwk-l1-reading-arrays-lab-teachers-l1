@@ -21,10 +21,11 @@ disney = ["lilo", "stich", "walt", "mickey", "miney"]
 books = ["winnie the pooh's magical adventure", "to kill a mocking bird", "educated", "Holt McDougal's principles of algebra 1, "]
 age = [25]
 
-books.push("Geometry Textbook")
+puts disney
 
-books.push("COllege Algebra")
-puts books
+disney.push("Mulan")
+
+
 
 
 
