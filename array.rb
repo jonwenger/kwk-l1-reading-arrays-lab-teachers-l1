@@ -5,3 +5,5 @@
 
 #puts "In this class, we have a student name #{student_four}"
 
+student_list = ["Caroline","Millie", "Sonali", "Sam"]
+puts student_list
