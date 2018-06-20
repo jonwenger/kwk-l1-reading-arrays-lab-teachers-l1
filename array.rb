@@ -5,17 +5,17 @@
 
 #puts "In this class, we have a student name #{student_four}"
 
-student_list = ["Caroline","Millie", "Sonali", "Sam"]
-# puts student_list
+# student_list = ["Caroline","Millie", "Sonali", "Sam"]
+# # puts student_list
 
-friends = ["Ross",
-"Chandler",
-"Rachel", 
-"Phoebe",
-"Monica", 
-"Joey"]
+# friends = ["Ross",
+# "Chandler",
+# "Rachel", 
+# "Phoebe",
+# "Monica", 
+# "Joey"]
 
-puts friends
+# puts friends
 
 disney = ["lilo", "stich", "walt", "mickey", "miney"]
 books = ["winne the pooh's magical adventure", "to kill a mocking bird", "educated", "Holt McDougal's principles of algebra 1, "]
